@@ -3,7 +3,6 @@ loguru
 colorama
 requests
 utils
-DOMAIN_API
 utils.config
 banner
 logging
@@ -12,3 +11,4 @@ uuid
 asyncio
 time
 utils.banner
+DOMAIN_API
