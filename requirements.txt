@@ -10,5 +10,3 @@ sys
 uuid
 asyncio
 time
-utils.banner
-DOMAIN_API
